@@ -40,8 +40,8 @@ AlgoSage is an AI-powered chatbot that leverages Llama3 70b on Groq, Vercel's AI
 |---------|------------------|
 | **Vercel** | Hosting the frontend + backend API route, live deployment |
 | **CodeRabbit** | Checked all PRs, suggested improvements, ensured code quality and documentation adherence |
-| **Kestra** | Planned for automating backend workflow (data fetching & processing). Currently, the structure is in place for future flow integration |
-| **OpenAI API** | Planned for summarization and signal generation (integration placeholder included in backend) |
+| **Kestra** | Integration attempted for automating backend workflow but not completed due to time constraints |
+| **OpenAI API** | Integration attempted for summarization and signal generation but not completed due to time constraints |
 
 > Note: Due to time constraints, OpenAI & Kestra integration is partially scaffolded for demo purposes.
 
